@@ -26,7 +26,7 @@ LOCAL_OVERRIDES_PACKAGES := \
     Sounds \
     Speech Recognition and Synthesis from Google \
     Switch Access \
-    Voice Access \
+    Voice Access
 LOCAL_UNINSTALLABLE_MODULE := true
 LOCAL_CERTIFICATE := PRESIGNED
 LOCAL_SRC_FILES := /dev/null
